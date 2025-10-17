@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\bin\Debug\net8.0\ScreenSoundPoo.exe
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\bin\Debug\net8.0\ScreenSoundPoo.deps.json
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\bin\Debug\net8.0\ScreenSoundPoo.runtimeconfig.json
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\bin\Debug\net8.0\ScreenSoundPoo.dll
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\bin\Debug\net8.0\ScreenSoundPoo.pdb
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.dll
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\refint\ScreenSoundPoo.dll
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.pdb
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ScreenSoundPoo.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos-treinamento\Alura\ScreenSoundPoo\obj\Debug\net8.0\ref\ScreenSoundPoo.dll
