@@ -4,8 +4,14 @@ using ScreenSound.Modelos;
 
 try
 {
-    var artistaDAL = new ArtistaDAL();
-    artistaDAL.Adicionar(new Artista("Falling in Reverse", "Ronnie Radke and the guys"));
+    var context = new ScreenSoundContext();
+    var artistaDAL = new ArtistaDAL(context);
+
+    var novoArtista = new Artista("Nirvana", "Banda de Nirvana") { Id = 2002};
+
+    //artistaDAL.Adicionar(novoArtista);
+    artistaDAL.Deletar(novoArtista);
+
     var listaArtistas = artistaDAL.Listar();
 
     foreach (var artista in listaArtistas)
